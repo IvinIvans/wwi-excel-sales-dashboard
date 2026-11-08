@@ -48,7 +48,7 @@ The model uses a star schema with these tables:
 
 ## How to use
 
-1. Download `World_Wide_Importers_Project_Redesigned.xlsx`.
+1. Download `World_Wide_Importers_Project.xlsx`.
 2. Open it in **desktop Excel** (Windows, Excel 2016 or later). Slicers, timelines and the Data Model need the desktop app, and they do not work in Excel for the web.
 3. Go to the **Dashboard** sheet and use the slicers at the top.
 4. The `Trend`, `City` and `Employee` sheets hold the PivotTables behind the charts.
